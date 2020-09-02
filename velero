@@ -1,1 +1,1 @@
-FROM velero/velero:v1.4.2
+FROM velero/velero:v1.5.0-beta.1
